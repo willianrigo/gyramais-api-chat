@@ -6,12 +6,16 @@ Feito utilizando Realtime database do Google Firebase e GraphQL.
 
 Instale as dependências e execute o projeto localmente.
 
-### `npm install`
-### `firebase serve`
+#### `cd functions`
+#### `npm install`
+
+#### Criar o arquivo credentials.json
+
+#### `firebase serve`
 
 Para fazer o deploy no Functions do Google:
 
-### `firebase deploy`
+#### `firebase deploy`
 
 
 ###Chamadas na API:
